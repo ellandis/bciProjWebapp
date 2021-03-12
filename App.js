@@ -20,6 +20,7 @@ export default function App() {
           {text: "Create Account", onPress: ()=> console.log("Create Account") },
         ] )}  />
         
+        
     </SafeAreaView>
   );
 }
